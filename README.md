@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Kubernetes security topics and how to test Kubernetes deployments.
 - 👯 I’m currently collaborating to the Kubernetes translation to Portuguese BR.
 - 💬 Ask me about, Cloud, Automation, Python, Kubernetes, running production workloads, being on-call 😭!
-- ⚡ Fun fact: I've worked as Data Engineer for 2 years!
 - 📫 How to reach me: https://www.linkedin.com/in/rodrigodelmonte/
 
 <!--
