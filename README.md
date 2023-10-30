@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rodrigo
 
-- 🔭 I’m currently working on **@D2IQ** former **@Mesosphere** as Software Engineer/QA Engineer.
+- 🔭 I’m currently working on **@D2IQ** former **@Mesosphere** as Software Engineer.
 - 🌱 I’m currently learning Kubernetes security topics and how to test Kubernetes deployments.
 - 👯 I’m currently collaborating to the Kubernetes translation to Portuguese BR.
 - 💬 Ask me about, Cloud, Automation, Python, Kubernetes, running production workloads, being on-call 😭!
