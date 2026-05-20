@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Rodrigo
 
 - 🌱 I’m currently working with Kubernetes.
-- 👯 I’m currently collaborating to the Kubernetes translation to Portuguese BR.
 - 💬 Ask me about, Cloud, Automation, Python, Kubernetes, running production workload!
 - 📫 How to reach me: https://www.linkedin.com/in/rodrigodelmonte/
 
